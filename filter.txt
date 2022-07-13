@@ -1,4 +1,13 @@
-# dokkan wiki
+! mlbpark
+mlbpark.donga.com##DIV[style*="width:670px; margin:10px 0;background:#fff; padding:10px 20px 0 20px;overflow:hidden;border:1px solid #dbdbdb;"]
+mlbpark.donga.com##DIV[id="advertise_naver"]
+mlbpark.donga.com##DIV[id="taboola-right-rail-thumbnails-abp"]
+mlbpark.donga.com##DIV[class*="naver_power"]
+
+! base64 online tool
+www.base64encode.org##DIV[id="cto_banner_content"]
+
+! dokkan wiki
 dbz-dokkanbattle.fandom.com##DIV[class="top-ads-container"]
 dbz-dokkanbattle.fandom.com##DIV[class="bottom-ads-container"]
 dbz-dokkanbattle.fandom.com##DIV[id*="google_ads_iframe"]
