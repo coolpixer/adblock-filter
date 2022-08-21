@@ -9,7 +9,8 @@ www.base64encode.org##DIV[id="cto_banner_content"]
 
 ! dokkan wiki
 dbz-dokkanbattle.fandom.com##DIV[class="top-ads-container"]
-dbz-dokkanbattle.fandom.com##DIV[class="bottom-ads-container"]
 dbz-dokkanbattle.fandom.com##DIV[id*="google_ads_iframe"]
 dbz-dokkanbattle.fandom.com##DIV[id*="incontent_boxad_1"]
+dbz-dokkanbattle.fandom.com##DIV[class="bottom-ads-container"]
 dbz-dokkanbattle.fandom.com##DIV[id*="rail-boxad-wrapper"]
+dbz-dokkanbattle.fandom.com##DIV[id*="top_boxad"]
